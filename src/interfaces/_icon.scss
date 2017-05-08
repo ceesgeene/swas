@@ -1,0 +1,13 @@
+
+/// Adds an icon before or after the content of an element.
+/// @group interface
+/// @alias icon
+/// @param {String} $icon
+/// @content TODO
+/// @example
+///   .form-search__submit {
+///     @include icon(search, after);
+///   }
+@mixin __icon($icon, $position: before) {
+
+}
