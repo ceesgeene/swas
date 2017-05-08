@@ -1,7 +1,7 @@
-## swas
+# swas
 An abstract sass framework.
 
-# Considerations
+## Considerations
 
 * Ensure good DX
 * Provide clear code structure
@@ -10,7 +10,7 @@ An abstract sass framework.
 * Allow to reuse/share code over projects
 * Embrace other existing well-established and/or popular libraries, standards and practices
 
-# Design basics
+## Design basics
 
 When looking closely, you'll see that the design of almost every (modern, responsive) website or -application consists of the, more or less consistent and coherent, usage of the following basics:
 
@@ -22,7 +22,7 @@ When looking closely, you'll see that the design of almost every (modern, respon
 * icons
 * spacing
 
-# Design terminology
+## Design terminology
 
 * Lanes
 * Partials
