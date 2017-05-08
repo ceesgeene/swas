@@ -26,3 +26,11 @@ When looking closely, you'll see that the design of almost every (modern, respon
 
 * Lanes
 * Partials
+
+# Structure
+
+```
+abstracts/
+blocks/
+config/
+```
