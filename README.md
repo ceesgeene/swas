@@ -27,6 +27,11 @@ When looking closely, you'll see that the design of almost every (modern, respon
 * Lanes
 * Partials
 
+### Lane
+
+ * A lane always equals 100vw
+ * Lanes can be nested
+
 # Structure
 
 ```
