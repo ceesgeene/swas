@@ -1,13 +1,12 @@
 
 /// Applies style to given breakpoints only.
 /// @group interface
-/// @alias breakpoint
 /// @param {String} $from
 /// @content The style to be applied to given breakpoints only.
 /// @example
 ///   @include breakpoint(small, medium) {
 ///     display: none;
 ///   }
-@mixin __breakpoint($from, $to) {
+@mixin breakpoint($from, $to) {
 
 }
