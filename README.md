@@ -26,11 +26,28 @@ When looking closely, you'll see that the design of almost every (modern, respon
 
 * Lanes
 * Partials
+* Lanesets
 
 ### Lane
 
- * A lane always equals 100vw
+Every area of a design covering the entire width of the viewport and ... is called a lane.
+
+ * The width of a lane always equals 100vw
  * Lanes can be nested
+ * Every design contains at least one lane
+ 
+### Partial
+
+A component that is placed into one or more designated regions of lanes is called a partial.
+
+ * A partial is fluid
+ * A partial can have a minimum and/or a maximum width (grid columns)
+ 
+## Laneset
+
+An area containing a set of adjoining lanes is called a laneset.
+
+ * A laneset can control how the lanes visually adjoin/overlap/collapse.
 
 # Structure
 
